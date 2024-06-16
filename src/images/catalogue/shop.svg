@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="132" height="132" viewBox="0 0 132 132">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_16" data-name="Rectangle 16" width="48" height="48" transform="translate(604.147 827.147)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Groupe_4" data-name="Groupe 4" transform="translate(-572 -795)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(572 795)" fill="none" stroke="#fff" stroke-width="3">
+      <circle cx="66" cy="66" r="66" stroke="none"/>
+      <circle cx="66" cy="66" r="64.5" fill="none"/>
+    </g>
+    <g id="Groupe_de_masques_1" data-name="Groupe de masques 1" transform="translate(7.853 9.853)" clip-path="url(#clip-path)">
+      <g id="shopping-cart" transform="translate(603.98 830.354)">
+        <path id="Tracé_1" data-name="Tracé 1" d="M47.222,11.352A3.359,3.359,0,0,0,44.6,10.1H8.033l-.327-2.34A3.388,3.388,0,0,0,4.366,4.852H1.5a1.5,1.5,0,1,0,0,3H4.366a.376.376,0,0,1,.371.323l4.047,29a3.387,3.387,0,0,0,3.341,2.907H13.75a4.5,4.5,0,1,0,8.479,0H30.24a4.5,4.5,0,1,0,8.479,0h3.256a1.5,1.5,0,0,0,0-3H12.124a.376.376,0,0,1-.371-.323l-.373-2.675H40.9a3.392,3.392,0,0,0,3.3-2.666L47.9,14.179a3.358,3.358,0,0,0-.675-2.827ZM19.489,41.58a1.5,1.5,0,1,1-1.5-1.5A1.5,1.5,0,0,1,19.489,41.58Zm16.49,0a1.5,1.5,0,1,1-1.5-1.5A1.5,1.5,0,0,1,35.979,41.58Zm8.986-28.03L41.271,30.789a.378.378,0,0,1-.367.3H10.962L8.451,13.1H44.6a.375.375,0,0,1,.367.453Z" transform="translate(0 -4.852)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
