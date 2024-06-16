@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/JESSIM-lua/Portfoilio/static/css/main.46640355.css",
+    "main.js": "/JESSIM-lua/Portfoilio/static/js/main.bbdf6f16.js",
+    "static/js/453.1407b060.chunk.js": "/JESSIM-lua/Portfoilio/static/js/453.1407b060.chunk.js",
+    "static/media/background.png": "/JESSIM-lua/Portfoilio/static/media/background.b869c045a00bc121b6d7.png",
+    "static/media/CV_Jessim.pdf": "/JESSIM-lua/Portfoilio/static/media/CV_Jessim.1fb5c2140d4024a31ff6.pdf",
+    "index.html": "/JESSIM-lua/Portfoilio/index.html",
+    "main.46640355.css.map": "/JESSIM-lua/Portfoilio/static/css/main.46640355.css.map",
+    "main.bbdf6f16.js.map": "/JESSIM-lua/Portfoilio/static/js/main.bbdf6f16.js.map",
+    "453.1407b060.chunk.js.map": "/JESSIM-lua/Portfoilio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46640355.css",
+    "static/js/main.bbdf6f16.js"
+  ]
+}
