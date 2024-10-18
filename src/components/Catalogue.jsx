@@ -11,8 +11,29 @@ function Catalogue() {
       name: 'Prixy',
       description: 'Prixy est une application de reservation de salle en ligne, elle permet de reserver une salle de réunion en ligne.',
       time: '1200',
-      imageUrl: 'https://cdn.discordapp.com/attachments/1129209624810242078/1251486786719453305/logo.png?ex=666ec165&is=666d6fe5&hm=96f382afa68215f2e779712a53e47af20fa1fab249d1fe50e4bdd7ecec11f050&',
+      imageUrl: 'https://cdn.discordapp.com/attachments/1129209624810242078/1251486786719453305/logo.png?ex=67138ce5&is=67123b65&hm=56db2b614b7e57acffd6b4a7fe040a523109891e1b3365b2f49fe7804bb6db36&',
       link: 'https://github.com/JESSIM-lua/prixy2.0'
+    },
+    {
+      name: 'Prixy',
+      description: 'Prixy est une application de reservation de salle en ligne, elle permet de reserver une salle de réunion en ligne.',
+      time: '1200',
+      imageUrl: 'https://cdn.discordapp.com/attachments/1129209624810242078/1251486786719453305/logo.png?ex=67138ce5&is=67123b65&hm=56db2b614b7e57acffd6b4a7fe040a523109891e1b3365b2f49fe7804bb6db36&',
+      link: 'https://drive.google.com/file/d/1iOP8FCorwr6lbU47_iZfRB-dOr54o4iV/view?usp=sharing'
+    },
+    {
+      name: 'Developpement professionnel',
+      description: 'Porjet d\'introspection.',
+      time: '20',
+      imageUrl: 'https://th.bing.com/th/id/OIP.4kQZVzaAqFwWwhBrwNg1OQHaLH?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+      link: 'https://drive.google.com/file/d/1wen34OGuevf5ne3AUl-isC6RzE-yTjDb/view?usp=sharing'
+    },
+    {
+      name: 'Developpement Présence en ligne',
+      description: 'Projet de Developpement Présence en ligne.',
+      time: '50',
+      imageUrl: 'https://th.bing.com/th/id/OIP.Sh5eb3UeiQaoHr6uMXVhDwHaHa?w=165&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7',
+      link: 'https://drive.google.com/file/d/1PM6UnRm8_SiXMW5XL0cVOHti5zS8hOk1/view?usp=sharing'
     },
     {
       name: 'Formulaire',
