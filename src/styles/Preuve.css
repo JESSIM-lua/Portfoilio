@@ -1,0 +1,140 @@
+.mainContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #0a0332;
+  }
+  
+  .preuve-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .preuve-header h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .preuve-header p {
+    font-size: 1rem;
+    color: #666;
+  }
+
+
+.preuve-container {
+    padding: 20px;
+    overflow-x: auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .preuve-section {
+    margin-bottom: 40px;
+  }
+  
+  .preuve-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .preuve-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  
+  .preuve-table th,
+  .preuve-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    vertical-align: top;
+    text-align: center;
+  }
+  
+  .preuve-table th {
+    background-color: #f4f4f4;
+    font-weight: bold;
+  }
+  
+  .preuve-table td:first-child,
+  .preuve-table td:nth-child(2),
+  .preuve-table th:first-child,
+  .preuve-table th:nth-child(2) {
+    text-align: left;
+  }
+  
+  .preuve-empty {
+    font-style: italic;
+    color: #999;
+    text-align: center;
+  }
+
+  tr {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 10px 0;
+    border: #999999 1px solid;
+    color : #ffffff;
+  }
+
+    tr:hover {
+        background-color: #31efe91c;
+    }
+
+  td {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 10px 0;
+    color : #ffffff;
+    border: #999999 1px solid;
+  }
+  
+  th {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 10px 0;
+    color : #ffffff;
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #ebeaea;
+  }
+
+  table {
+    width: 100%;
+    margin-bottom: 20px;
+    border:#ffffff 1px solid;
+
+  }
+
+
+  /* .linkContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+
+  } */
+
+ span {
+    font-size: 14px;
+    line-height: 1.5;
+    margin: 10px 0;
+    color : #ffffff;
+    display: flex;
+    justify-content: center;
+  }
+
+  .linkContainer:hover {
+    background-color: #4288b6;
+    color: #000000;
+    cursor: pointer;
+   
+    /* margin: auto; */
+    
+  }
