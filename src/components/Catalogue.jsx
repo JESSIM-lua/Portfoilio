@@ -2,6 +2,7 @@ import React from "react";
 import ProductList from "./ProductList"; // Assurez-vous d'importer le composant ProductList
 import "../App.css";
 import Header from "./Header";
+import Preuve from "./Preuve";
 
 function Catalogue() {
   // Ici, nous définissons une liste de produits directement dans le composant Catalogue
@@ -86,7 +87,7 @@ function Catalogue() {
         <p>Etudiant BTS SIO 2 Institution Des Chartreux Lyon1</p>
       </main>
       <div className="catalogue-container">
-        <ProductList products={products} />
+        <Preuve />
       </div>
     </div>
   );

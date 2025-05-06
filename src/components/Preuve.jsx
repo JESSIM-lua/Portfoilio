@@ -52,28 +52,28 @@ const Preuve = () => {
           period: "03/03/2025 - 26/04/2025",
           values: [true, false, false, false, false, false],
           valueLink:
-            "https://drive.google.com/file/d/1x676aGnDrDgLNojJd59trHYBcrEDvF_L/view",
+            "https://drive.google.com/file/d/1ncGQSqNfF8EArs1BDs6nIUL1WSr04fgW/view?usp=sharing",
         },
         {
           name: "Traitement de demandes via un Kanban (Trello)",
           period: "03/03/2025 - 25/04/2025",
           values: [false, true, false, false, false, false],
           valueLink:
-            "https://drive.google.com/file/d/1x676aGnDrDgLNojJd59trHYBcrEDvF_L/view",
+            "https://drive.google.com/file/d/18DlCPMdGA8UycaZKukJXjbukifvTNEGl/view?usp=sharing",
         },
         {
           name: "Création d’une application web (Walrus)",
           period: "03/03/2025 - 26/04/2027",
           values: [false, false, false, true, false, false],
           valueLink:
-            "https://drive.google.com/file/d/1x676aGnDrDgLNojJd59trHYBcrEDvF_L/view",
+            "https://drive.google.com/file/d/18DlCPMdGA8UycaZKukJXjbukifvTNEGl/view?usp=sharing",
         },
         {
           name: "Déploiement d’une application web (Walrus)",
           period: "03/03/2025 - 25/04/2026",
           values: [false, false, false, false, true, false],
           valueLink:
-            "https://drive.google.com/file/d/1x676aGnDrDgLNojJd59trHYBcrEDvF_L/view",
+            "https://drive.google.com/file/d/1_wAX_NPfiBXA5pz0b_bSsVRDadKdJdxS/view?usp=sharing",
         },
       ],
     },
