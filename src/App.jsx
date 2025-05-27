@@ -8,8 +8,16 @@ import Header from "./components/Header";
 import Render from "./components/Render";
 import Footer from "./components/Footer";
 import Preuve from "./components/Preuve";
+import { useEffect } from "react";
 
 function App() {
+  function ExternalRedirect({ to }) {
+  useEffect(() => {
+    window.location.href = to;
+  }, [to]);
+
+  return null;
+}
   return (
     <Router>
       {/* <Header /> */}
@@ -23,6 +31,8 @@ function App() {
           <Route path="/Render" element={<Render />} />
           <Route path="/Footer" element={<Footer />} />
           <Route path="/preuve" element={<Preuve />} />
+          <Route path="/ppe1" element={<ExternalRedirect to="https://gest-one.netlify.app" />} />
+
 
           {/* Ajoutez plus de routes selon vos besoins */}
         </Routes>
